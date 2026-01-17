@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=EEthical%20Hacking%20Researcher;Passionate%20Developer;Python%20%26%20AI%20Enthusiast&font=Fira%20Code&size=28&pause=1000&center=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines= Ethical%20Hacking%20Researcher;Passionate%20Developer;Python%20%26%20AI%20Enthusiast&font=Fira%20Code&size=28&pause=1000&center=true" alt="Typing SVG" />
 </div>
 
 <!-- Trophy service is currently experiencing issues (503 error). You can add it back once resolved, or set up a GitHub Action alternative like ayush-trophy for a custom neon version: https://github.com/ayushraistudio/ayush-trophy -->
