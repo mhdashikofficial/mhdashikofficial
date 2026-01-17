@@ -4,7 +4,7 @@ preview
 <h1 align="center">Hi 👋, I'm MUHAMMED ASHIK</h1>
 <h3 align="center">ethical hacking researcher and a passionate developer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-mu-steel.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [cyber master bot](https://github.com/mhdashikofficial/cybermaster-bot.git)
 
