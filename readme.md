@@ -36,7 +36,7 @@
   <a href="https://linkedin.com/in/muhammed-ashik-b90ba0215" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="35" height="35" />
   </a>
-  <a href="https://instagram.com/_._ashik.pvt" target="_blank">
+  <a href="https://www.instagram.com/itsme.ash_._/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="35" height="35" />
   </a>
   <a href="https://github.com/mhdashikofficial" target="_blank">
