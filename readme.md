@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[StrawHatAi_Public](https://github.com/mhdashikofficial/StrawHatAi_Public)** – A powerful, intelligent AI project pushing the boundaries of automation and machine learning.
+- 🔭 I’m currently working on **[StrawCoreAi](https://github.com/mhdashikofficial/StrawCoreAi)** – A powerful, intelligent AI project pushing the boundaries of automation and machine learning.
 - 🌱 I’m currently deep-diving into **Python, AI & Machine Learning** – Exploring neural networks, ethical AI, and next-gen tech.
 - ⚡ Fun fact: **I do whatever comes into my mind** – And somehow it always turns into working code 😎 
 - 💼 Bio: Ethical Hacker | Bug Hunter | Cyber Security Researcher  
